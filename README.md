@@ -4,7 +4,7 @@
 
 Hi, I'm Alex! I'm studying Computer Science, and my interests include full-stack development, mobile applications, and cybersecurity.
 
-Outside of tech, I enjoy working out 🏋️ and am a passionate Red Bull and Ferrari Formula 1 fan 🏎️.
+Outside of tech, I enjoy working out 🏋️ and am a passionate Red Bull and Ferrari Formula 1 fan 🏎️
 
 <h2 align="left">🏗️ What I'm currently working on:</h2>
 
