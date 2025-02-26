@@ -2,7 +2,7 @@
 
 <h2 align="left">👨‍💻 About Me:</h2>
 
-Hi, I'm Alex! I'm studying Computer Science, and my interests include full-stack development, mobile applications, and cybersecurity.
+Hi, I'm Alex! I'm studying Computer Science, and my interests include full-stack development, mobile development, and cybersecurity.
 
 Outside of tech, I enjoy working out 🏋️ and am a passionate Scuderia Ferrari Formula 1 fan 🏎️
 
