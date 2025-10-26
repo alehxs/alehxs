@@ -3,12 +3,11 @@
 <h2 align="left">👨‍💻 About Me:</h2>
 
 I'm a Computer Science student interested in full-stack development, mobile development, and cybersecurity.
-Outside of tech, I enjoy working out 🏋️ and eating good food 🍔. I'm also a passionate Oracle Redbull Racing fan 🏎️.
+Outside of tech, I enjoy working out 🏋️ and eating out 🍔. I'm also an avid Redbull Racing fan 🏎️.
 
 <h2 align="left">🏗️ What I'm currently working on:</h2>
 
 - Formula 1 Telemetry Dashboard
-- CompTIA Security+ Certification
 - Leetcode
 
 
