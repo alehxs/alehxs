@@ -2,12 +2,12 @@
 
 <h2 align="left">👨‍💻 About Me:</h2>
 
-I'm a Computer Science student interested in full-stack development, mobile development, and cybersecurity.
+I'm a Computer Science new grad from the University of Houston interested in full-stack development, mobile development, and cybersecurity.
 Outside of tech, I enjoy working out 🏋️ and eating out 🍔. I'm also an avid Redbull Racing fan 🏎️.
 
 <h2 align="left">🏗️ What I'm currently working on:</h2>
 
-- Formula 1 Telemetry Dashboard
+- Menui, an iOS app that lets you snap a menu and see photos of dishes before you order
 - Leetcode
 
 
