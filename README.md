@@ -4,7 +4,8 @@
 <h2 align="left">👨‍💻 About Me:</h2>
   I'm a Computer Science grad from the University of Houston interested in         
   full-stack development, mobile development, and cybersecurity.                       
-  Racing fan 🏎️.                                                                       
+
+  Outside of of tech, I enjoy working out, eating, and trying out different things. I'm also a Max Verstappen fan 🏎️.
 
                                                                                        
 <h2 align="left">🏗️ What I'm currently working on:</h2>                              
