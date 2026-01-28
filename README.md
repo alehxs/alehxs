@@ -35,7 +35,7 @@ Extract and organize restaurant menu items through camera scanning
 
 ---
 
-**Languages:** Python • Java • JavaScript/TypeScript • Swift • SQL  
+**Languages:** Python • C++ • Java • JavaScript/TypeScript • Swift • SQL  
 **Frontend:** React • SwiftUI • HTML/CSS  
 **Backend:** Spring Boot • Node.js • Express • FastAPI  
 **Tools:** Git • Docker • Postman • Figma • AWS
