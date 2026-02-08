@@ -13,7 +13,7 @@
 
 Recent CS graduate building practical solutions across full-stack, mobile, and backend development. I focus on creating applications that solve real problems—from financial tracking to sports analytics.
 
-When I'm not coding, you'll find me at the gym, exploring new restaurants, or watching Formula 1 🏎️ (Max Verstappen fan).
+When I'm not coding, you'll find me at the gym, exploring new restaurants, or watching Formula 1 🏎️ (MV1 fan).
 
 ### 🚀 Current Projects
 
