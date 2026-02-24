@@ -19,15 +19,15 @@ When I'm not coding, you'll find me at the gym, exploring new restaurants, or wa
 
 ---
 
-**[Summed](link-to-repo)** - Personal finance tracker  
+**[Summed](https://github.com/alehxs/summed)** - Personal finance tracker  
 Java • Spring Boot • Plaid API • PostgreSQL  
 Transaction categorization and budget management with real-time bank integration
 
-**[Telemetrics](link-to-repo)** - F1 race prediction platform  
+**[Telemetrics](https://github.com/alehxs/telemetrics)** - F1 race prediction platform  
 Python • Machine Learning • FastAPI • React  
 ML-powered predictions using gradient boosting on historical telemetry data
 
-**[Menui](link-to-repo)** - OCR menu scanning iOS app  
+**[Menui](https://github.com/alehxs/menui)** - OCR menu scanning iOS app  
 Swift • SwiftUI • Vision Framework  
 Extract and organize restaurant menu items through camera scanning
 
